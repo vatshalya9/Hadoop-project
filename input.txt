@@ -1,0 +1,100 @@
+crackers, icecream, coke, apple
+chicken, pizza, coke, bread
+baguette, soda, shampoo, crackers, pepsi
+baguette, cream cheese, diapers, milk
+bagel, cream cheese, muffin, butter
+bagel, milk, cereal, cream cheese
+baguette, eggs
+milk, eggs, cereal, oats
+eggs, honey, milk, banana
+banana, yogurt, strawberry,honey
+crackers, pizza, coke, beer
+chicken, beer, coke, steak
+baguette, soda, vinegar,coke, pepsi
+baguette, cream cheese, milk
+bagel, cream cheese,milk,diapers
+bagel, milk, cereal, egg
+baguette, eggs, milk
+milk, eggs, cereal
+eggs, honey, beef, cheese	
+banana, yogurt, strawberry,whip cream
+milk, eggs, cake, batter,whip cream
+milk, frappucino, whip cream
+cake,cookie
+cookie,bagel,muffin
+crissonts,pine apple,muffin
+grapes,pine apple,cantelope
+milk, grapes, cantelope
+pine apple, apple, cantelope, grape
+bread, milk, cereal
+bread, butter, muffin
+milk, eggs, bread, bagel
+milk, frappucino, coffee
+cake,cookie,
+cookie,bagel,muffin
+crissonts,pine apple,muffin
+grapes,pine apple,cantelope
+milk, grapes, cantelope
+pine apple, apple, cantelope, grape
+bread, milk, cereal
+bread, butter, muffin
+milk, cereal
+coffe, milk, tea
+water, tea, chips
+redbull, whisky
+juice, vodka
+eggs, cake batter
+ice cream, cake
+pasta, spagetti
+carrot, milk, eggs
+bounty, tissues, cleaner
+crackers, icecream, coke, apple
+chicken, pizza, coke, bread
+baguette, soda, shampoo, crackers, pepsi
+baguette, cream cheese, diapers, milk
+bagel, cream cheese, muffin, butter
+bagel, milk, cereal, cream cheese
+baguette, eggs
+milk, eggs, cereal, oats
+eggs, honey, milk, banana
+banana, yogurt, strawberry,honey
+crackers, pizza, coke, beer
+chicken, beer, coke, steak
+baguette, soda, vinegar,coke, pepsi
+baguette, cream cheese, milk
+bagel, cream cheese,milk,diapers
+bagel, milk, cereal, egg
+baguette, eggs, milk
+milk, eggs, cereal
+eggs, honey, beef, cheese	
+banana, yogurt, strawberry,whip cream
+milk, eggs, bread, bagel
+milk, frappucino, coffee
+cake,candles
+cookie,muffin
+crissonts,muffin
+pine apple,cantelope
+milk,cantelope
+pine apple, cantelope, grape
+bread, milk, cereal
+bread, butter
+milk, cereal
+coffe, milk, tea
+water, tea, chips
+redbull, whisky
+juice, vodka
+eggs, cake batter
+ice cream, cake
+pasta, spagetti
+carrot, milk, eggs
+bounty, tissues, cleaner
+yougurt, lunchables
+cookies, bananas
+soup, crackers
+coffee, creamer, sugar
+sugar, honey
+muffin, coffee
+donuts, coffee
+salad, dressing
+hot dog, bun
+bread, jam

@@ -1,0 +1,205 @@
+[apple, cantelope, grape]	2
+
+[apple, cantelope, pine apple]	2
+
+[apple, coke, crackers]	2
+
+[apple, coke, icecream]	2
+
+[apple, crackers, icecream]	2
+
+[apple, grape, pine apple]	2
+
+[bagel, bread, eggs]	2
+
+[bagel, bread, milk]	2
+
+[bagel, butter, cream cheese]	2
+
+[bagel, butter, muffin]	2
+
+[bagel, cereal, cream cheese]	2
+
+[bagel, cereal, egg]	2
+
+[bagel, cereal, milk]	4
+
+[bagel, cookie, muffin]	2
+
+[bagel, cream cheese, diapers]	2
+
+[bagel, cream cheese, milk]	4
+
+[bagel, cream cheese, muffin]	2
+
+[bagel, diapers, milk]	2
+
+[bagel, egg, milk]	2
+
+[bagel, eggs, milk]	2
+
+[baguette, coke, pepsi]	2
+
+[baguette, coke, soda]	2
+
+[baguette, coke, vinegar]	2
+
+[baguette, crackers, pepsi]	2
+
+[baguette, crackers, shampoo]	2
+
+[baguette, crackers, soda]	2
+
+[baguette, cream cheese, diapers]	2
+
+[baguette, cream cheese, milk]	4
+
+[baguette, diapers, milk]	2
+
+[baguette, eggs, milk]	2
+
+[baguette, pepsi, shampoo]	2
+
+[baguette, pepsi, soda]	4
+
+[baguette, pepsi, vinegar]	2
+
+[baguette, shampoo, soda]	2
+
+[baguette, soda, vinegar]	2
+
+[banana, eggs, honey]	2
+
+[banana, eggs, milk]	2
+
+[banana, honey, milk]	2
+
+[banana, honey, strawberry]	2
+
+[banana, honey, yogurt]	2
+
+[banana, strawberry, whip cream]	2
+
+[banana, strawberry, yogurt]	4
+
+[banana, whip cream, yogurt]	2
+
+[batter, cake, eggs]	1
+
+[batter, cake, milk]	1
+
+[batter, cake, whip cream]	1
+
+[batter, eggs, milk]	1
+
+[batter, eggs, whip cream]	1
+
+[batter, milk, whip cream]	1
+
+[beef, cheese, eggs]	2
+
+[beef, cheese, honey]	2
+
+[beef, eggs, honey]	2
+
+[beer, chicken, coke]	2
+
+[beer, chicken, steak]	2
+
+[beer, coke, crackers]	2
+
+[beer, coke, pizza]	2
+
+[beer, coke, steak]	2
+
+[beer, crackers, pizza]	2
+
+[bounty, cleaner, tissues]	2
+
+[bread, butter, muffin]	2
+
+[bread, cereal, milk]	3
+
+[bread, chicken, coke]	2
+
+[bread, chicken, pizza]	2
+
+[bread, coke, pizza]	2
+
+[bread, eggs, milk]	2
+
+[butter, cream cheese, muffin]	2
+
+[cake, eggs, milk]	1
+
+[cake, eggs, whip cream]	1
+
+[cake, milk, whip cream]	1
+
+[cantelope, grape, pine apple]	3
+
+[cantelope, grapes, milk]	2
+
+[cantelope, grapes, pine apple]	2
+
+[carrot, eggs, milk]	2
+
+[cereal, cream cheese, milk]	2
+
+[cereal, egg, milk]	2
+
+[cereal, eggs, milk]	4
+
+[cereal, eggs, oats]	2
+
+[cereal, milk, oats]	2
+
+[cheese, eggs, honey]	2
+
+[chicken, coke, pizza]	2
+
+[chicken, coke, steak]	2
+
+[chips, tea, water]	2
+
+[coffe, milk, tea]	2
+
+[coffee, creamer, sugar]	1
+
+[coffee, frappucino, milk]	2
+
+[coke, crackers, icecream]	2
+
+[coke, crackers, pizza]	2
+
+[coke, pepsi, soda]	2
+
+[coke, pepsi, vinegar]	2
+
+[coke, soda, vinegar]	2
+
+[crackers, pepsi, shampoo]	2
+
+[crackers, pepsi, soda]	2
+
+[crackers, shampoo, soda]	2
+
+[cream cheese, diapers, milk]	4
+
+[crissonts, muffin, pine apple]	2
+
+[eggs, honey, milk]	2
+
+[eggs, milk, oats]	2
+
+[eggs, milk, whip cream]	1
+
+[frappucino, milk, whip cream]	1
+
+[honey, strawberry, yogurt]	2
+
+[pepsi, shampoo, soda]	2
+
+[pepsi, soda, vinegar]	2
+
+[strawberry, whip cream, yogurt]	2
